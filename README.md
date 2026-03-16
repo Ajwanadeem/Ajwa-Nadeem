@@ -1,1 +1,18 @@
-# Ajwa-Nadeem
+# 💫 About Me:
+I'm an Electrical Engineering undergraduate (6th semester) at FAST – National University of Computer and Emerging Sciences, specializing in Computer Engineering.<br><br>I'm passionate about Embedded Systems and IoT development and am currently seeking an embedded/IoT internship to gain hands-on experience.<br><br>This semester I’m expanding my skills in MATLAB, Simulink, Linux development, and Verilog, alongside coursework in Operating Systems, Feedback & Control Systems, and Computer Architecture.<br><br>💻 Programming<br><br>C++, Embedded C, Assembly<br><br>⚡ Embedded Systems<br><br>ESP32, Arduino, AVR Microcontrollers<br><br>🌐 IoT & Communication<br><br>MQTT, Mosquitto Server<br><br>🔧 Hardware Design<br><br>PCB Design, Proteus, Multisim<br><br>🛠 Engineering Tools<br><br>MATLAB, LTspice, AutoCAD<br><br>🌍 Networking<br><br>Basic network configuration & protocols<br><br>☕ Fun Fact<br><br>I genuinely enjoy engineering—even if it means long debugging sessions. Also, I bake surprisingly good stuff when I'm not wiring circuits or writing code.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajwanadeem14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i236070@isb.nu.edu.pk) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ajwa-Nadeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ajwa-Nadeem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajwa-Nadeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ajwa-Nadeem&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
